@@ -1,0 +1,10 @@
+Q5: The minimum number of functions present in any C++ program is:
+Answer: 1 (main function should be present in the program).
+
+
+Q6: State True and False:
+1. A function may be called more than once from any other function (True)
+2. It is necessary for a function to return some value. (False)
+
+Q7: Explore: Can the same function name be used for different functions without any conflict?
+Answer: No we can not use the same function name for different functions.   
